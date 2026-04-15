@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/BEETHOVEN-CLI.dir/link.d "CMakeFiles/BEETHOVEN-CLI.dir/src/main.cpp.o" -o BEETHOVEN-CLI  _deps/ftxui-build/libftxui-screen.a _deps/ftxui-build/libftxui-dom.a _deps/ftxui-build/libftxui-component.a _deps/ftxui-build/libftxui-dom.a _deps/ftxui-build/libftxui-screen.a

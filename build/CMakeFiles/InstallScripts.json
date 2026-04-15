@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/juliocvs/Documentos/Programa\u00e7\u00e3o/Projetinho Git/BEETHOVEN-CLI/build/cmake_install.cmake",
+		"/home/juliocvs/Documentos/Programa\u00e7\u00e3o/Projetinho Git/BEETHOVEN-CLI/build/_deps/ftxui-build/cmake_install.cmake",
+		"/home/juliocvs/Documentos/Programa\u00e7\u00e3o/Projetinho Git/BEETHOVEN-CLI/build/_deps/ftxui-build/examples/cmake_install.cmake",
+		"/home/juliocvs/Documentos/Programa\u00e7\u00e3o/Projetinho Git/BEETHOVEN-CLI/build/_deps/ftxui-build/doc/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

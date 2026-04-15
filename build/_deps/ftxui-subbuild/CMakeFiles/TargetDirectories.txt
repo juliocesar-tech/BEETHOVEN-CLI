@@ -1,0 +1,3 @@
+/home/juliocvs/Documentos/Programação/Projetinho Git/BEETHOVEN-CLI/build/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate.dir
+/home/juliocvs/Documentos/Programação/Projetinho Git/BEETHOVEN-CLI/build/_deps/ftxui-subbuild/CMakeFiles/edit_cache.dir
+/home/juliocvs/Documentos/Programação/Projetinho Git/BEETHOVEN-CLI/build/_deps/ftxui-subbuild/CMakeFiles/rebuild_cache.dir
